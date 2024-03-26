@@ -1,0 +1,258 @@
+body,
+html {
+    height: 100%;
+    font-family: 'Montserrat', 'Avenir', 'Open Sans', 'Helvetica', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+    color: #123A39;
+}
+
+.nav-link.active {
+    color: #69BA58 !important;
+}
+
+.navbar.navbar-expand-xl {
+    height: 100px;
+    background-color: #123A39;
+    z-index: 1000;
+}
+
+.navbar>.container-fluid {
+    background-color: #123A39;
+}
+
+.hero {
+    min-height: calc(100% - 100px);
+}
+
+#video-banner {
+    object-fit: cover;
+    height: calc(100% - 100px);
+}
+
+.tree {
+    background-image: url("img/OpicoTree.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+
+.carousel-control-next,
+.carousel-control-prev
+
+/*, .carousel-indicators */
+    {
+    filter: invert(100%);
+}
+
+.carousel-control-next {
+    right: -5%;
+}
+
+.carousel-control-prev {
+    left: -5%;
+}
+
+.btn-primary {
+    background-color: #123A39;
+    border-color: #123A39;
+}
+
+.btn-primary:hover {
+    background-color: #0a201f;
+    border-color: #0a201f;
+}
+
+.btn-secondary {
+    background-color: #69BA58;
+    border-color: #69BA58;
+}
+
+.btn-secondary:hover {
+    background-color: #4f8e42;
+    border-color: #4f8e42;
+}
+
+.bg-green {
+    background-color: #123A39;
+}
+
+.bg-gray {
+    background-color: #D1D1D0;
+}
+
+.ourTeam .i {
+    margin-top: 30px
+}
+
+.ourTeam .i .c {
+    background: #fff;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    -moz-background-clip: padding;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    position: relative;
+    overflow: hidden;
+    padding-bottom: 110px
+}
+
+.ourTeam .i .c .wrap {
+    position: relative
+}
+
+.ourTeam .i .c .wrap img {
+    width: 100%;
+    -webkit-border-top-left-radius: 5px;
+    -webkit-border-top-right-radius: 5px;
+    -moz-border-radius-topleft: 5px;
+    -moz-border-radius-topright: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    transition: all .3s ease;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -ms-transition: all .3s ease;
+    -o-transition: all .3s ease
+}
+
+.ourTeam .i .c .wrap .info {
+    padding: 10px 0;
+    position: absolute;
+    top: 100%;
+    width: 100%;
+    transition: all .3s ease;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -ms-transition: all .3s ease;
+    -o-transition: all .3s ease
+}
+
+.ourTeam .i .c .wrap .info .name {
+    margin: 0;
+    font-size: 24px;
+    font-size: 2.4rem;
+    font-weight: 700;
+    margin: 0 0 8px 0
+}
+
+.ourTeam .i .c .more {
+    position: absolute;
+    bottom: -100%;
+    width: 100%;
+    transition: all .3s ease;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -ms-transition: all .3s ease;
+    -o-transition: all .3s ease
+}
+
+.ourTeam .i .c .more p {
+    margin: 0 18px 7px 18px;
+    line-height: 18px
+}
+
+.ourTeam .i .c:hover img {
+    -moz-opacity: 0;
+    -khtml-opacity: 0;
+    -webkit-opacity: 0;
+    opacity: 0
+}
+
+.ourTeam .i .c:hover .info {
+    top: 0
+}
+
+.ourTeam .i .c:hover .more {
+    bottom: 0
+}
+
+.bg-row {
+    background-image: url("img/row02.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 150px;
+}
+
+.bg-row-flipped {
+    background-image: url("img/row02.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 150px;
+    transform: rotate(180deg);
+}
+
+.bg-row-upsidedown {
+    background-image: url("img/row02.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 150px;
+    transform: scaleX(-1);
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #69BA58 !important;
+}
+
+/* Style for the floating action button */
+.floating-action-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 1000;
+}
+
+.separator {
+    height: 3px;
+    background: #69BA58;
+    color: #69BA58;
+    opacity: 1;
+}
+
+.location-text {
+    text-align: justify !important;
+}
+
+.bordered {
+    border: 3px solid #fff;
+    border-radius: 5px;
+}
+
+.number {
+    font-family: 'Poppins Regular' !important;
+}
+
+/* Custom CSS for positioning the image link */
+.bottom-right-image {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 9999;
+}
+
+/* Optional styles for the image link */
+.bottom-right-image img {
+    width: 58px; /* Adjust the width as needed */
+    height: auto; /* Maintain the aspect ratio */
+}
