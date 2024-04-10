@@ -2,7 +2,7 @@
 <html lang="es">
 
 <head>
-    <title>Residencial Opico Gardens - San Juan Opico, La libertad</title>
+    <title>Vistas de Conchagua, Residencial Vistas de Conchagua</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large">
@@ -10,28 +10,28 @@
 
     <meta property="og:locale" content="es_SV">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Residencial Opico Gardens - San Juan Opico, La libertad">
+    <meta property="og:title" content="Residencial Vistas de Conchagua - Conchagua, La Unión">
     <meta property="og:description" content="Solicita más información y nos pondremos en contacto contigo">
-    <meta property="og:url" content="https://www.opicogardens.com">
-    <meta property="og:site_name" content="Residencial Opico Gardens">
-    <meta property="og:image" content="https://www.opicogardens.com/img/og-image.jpg">
-    <meta property="og:image:secure_url" content="https://www.opicogardens.com/img/og-image.jpg">
+    <meta property="og:url" content="https://www.vistasdeconchagua.com">
+    <meta property="og:site_name" content="Residencial Vistas de Conchagua">
+    <meta property="og:image" content="https://www.vistasdeconchagua.com/img/og-image.jpg">
+    <meta property="og:image:secure_url" content="https://www.vistasdeconchagua.com/img/og-image.jpg">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
 
-    <meta name="twitter:title" content="Residencial Opico Gardens - San Juan Opico, La Libertad" />
+    <meta name="twitter:title" content="Residencial Vistas de Conchagua - Conchagua, La Unión" />
     <meta name="twitter:description" content="Solicita más información y nos pondremos en contacto contigo." />
     <meta name="twitter:label1" content="Written by" />
-    <meta name="twitter:data1" content="Opico Gardens" />
+    <meta name="twitter:data1" content="Vistas de Conchagua" />
     <meta name="twitter:label2" content="Time to read" />
     <meta name="twitter:data2" content="3 minutes" />
 
-    <link rel="canonical" href="https://www.opicogardens.com">
-    <link rel="shortlink" href="https://www.opicogardens.com">
-    <link rel="alternate" href="https://www.opicogardens.com" hreflang="es-sv">
-    <link rel="shortcut icon" href="img/Opico-Gardens-icon-150x150.png" type="image/x-icon" sizes="32x32">
-    <link rel="shortcut icon" href="img/Opico-Gardens-icon.png" type="image/x-icon" sizes="192x192">
-    <link rel="apple-touch-icon" href="img/Opico-Gardens-icon.png">
+    <link rel="canonical" href="https://www.vistasdeconchagua.com">
+    <link rel="shortlink" href="https://www.vistasdeconchagua.com">
+    <link rel="alternate" href="https://www.vistasdeconchagua.com" hreflang="es-sv">
+    <link rel="shortcut icon" href="/img/OpicoTree.png" type="image/x-icon" sizes="32x32">
+    <link rel="shortcut icon" href="/img/OpicoTree.png" type="image/x-icon" sizes="192x192">
+    <link rel="apple-touch-icon" href="/img/OpicoTree.png">
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="custom.css">
@@ -40,22 +40,12 @@
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <script src="https://www.google.com/recaptcha/enterprise.js" async defer></script>
 
-    <style>
-        body {
-            background-image: url(img/form-bg.jpg);
-            background-attachment: fixed;
-            background-position: center;
-            background-repeat: no-repeat;
-            background-size: cover;
-        }
-    </style>
-
-    <!-- Meta Pixel Code -->
+    <!-- Meta Pixel Code Pendiente!-->
     <script>
         !function (f, b, e, v, n, t, s) {
             if (f.fbq) return; n = f.fbq = function () {
                 n.callMethod ?
-                n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
             };
             if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
             n.queue = []; t = b.createElement(e); t.async = !0;
@@ -69,6 +59,7 @@
     <noscript><img height="1" width="1" style="display:none"
             src="https://www.facebook.com/tr?id=640949968183106&ev=PageView&noscript=1" /></noscript>
     <!-- End Meta Pixel Code -->
+
     <!-- Google tag (gtag.js) event - delayed navigation helper -->
     <script>
         // Helper function to delay opening a URL until a gtag event is sent.
@@ -87,28 +78,39 @@
             return false;
         }
     </script>
+
+    <style>
+        body {
+            background-image: url(img/form-bg.png);
+            background-attachment: fixed;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+    </style>
+
 </head>
 
 <body>
-    <!-- Begin Section 1 -->
-    <!-- Begin Navbar -->
     <a onclick='gtagSendEvent("https://wa.me/50370809187")' class="bottom-right-image" data-bs-toggle="popover"
         data-bs-content="¿Necesitas Ayuda?" data-bs-placement="left" data-aos="fade-in" data-aos-duration="1000"
         data-aos-delay="500">
         <img src="img/whatsapp.png" alt="Whatsapp">
     </a>
+    <!-- Begin Section 1 -->
+    <!-- Begin Navbar -->
     <nav id="navbar-opico" class="navbar navbar-expand-xl" data-bs-theme="dark">
         <div class="container-fluid">
-            <a href="/" class="navbar-brand ms-4 flex-lg-grow-1 flex-xl-grow-0" aria-label="Inicio">
-                <img src="img/LogoNavbar.png" alt="Opico Gardens" width="153">
+            <a href="#" class="navbar-brand ms-4 flex-lg-grow-1 flex-xl-grow-0" aria-label="Inicio">
+                <img src="img/LogoNavbar.png" alt="Vistas de Conchagua" width="100">
             </a>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav h6 w-100 justify-content-center">
                     <li class="nav-item mx-2 my-2">
-                        <a href="/#about" class="nav-link fw-bold">Sobre Opico Gardens</a>
+                        <a href="/#about" class="nav-link fw-bold">Sobre Vistas de Conchagua</a>
                     </li>
                     <li class="nav-item mx-2 my-2">
-                        <a href="/#modelo" class="nav-link fw-bold">Casa Modelo</a>
+                        <a href="/detalles" class="nav-link fw-bold">Casa Modelo</a>
                     </li>
                     <li class="nav-item mx-2 my-2">
                         <a href="/#location" class="nav-link fw-bold">Ubicación</a>
@@ -121,30 +123,30 @@
                     </li>
                 </ul>
                 <div class="d-flex align-items-center justify-content-center my-2 ms-auto">
-                    <a href="https://www.facebook.com/opicogardens" class="d-md-none d-flex text-white mx-3"
+                    <a href="https://www.facebook.com/vistasdeconchagua" class="d-md-none d-flex text-white mx-3"
                         aria-label="Facebook"><i class="fa fa-facebook fa-lg"></i></a>
-                    <a href="https://www.instagram.com/opicogardens/" class="d-md-none d-flex text-white mx-3"
+                    <a href="https://www.instagram.com/vistasdeconchagua/" class="d-md-none d-flex text-white mx-3"
                         aria-label="Instagram"><i class="fa fa-instagram fa-lg"></i></a>
                     <a href="https://www.youtube.com/channel/UCDfSm7FA4SoD6rnalJUmGlw"
                         class="d-md-none d-flex text-white mx-3" aria-label="Youtube"><i
                             class="fa fa-youtube fa-lg"></i></a>
                 </div>
                 <div class="d-flex align-items-center justify-content-center my-2 ms-auto">
-                    <a href="https://conicasv.com/" class="text-white mx-3" aria-label="Logo Conica"><img
+                    <a href="https://conicasv.com" class="text-white mx-3" aria-label="Logo Conica"><img
                             class="d-md-none d-flex" src="img/LogoConica.png" alt="CONICA" width="150" height="71"></a>
                 </div>
                 <!-- Social media icons and CONICA logo on the right side-->
             </div>
             <!-- Image and social media icons -->
             <div class="d-flex align-items-center navbar-right my-2">
-                <a href="https://www.facebook.com/opicogardens" class="d-none d-md-flex text-white mx-3"
+                <a href="https://www.facebook.com/vistasdeconchagua" class="d-none d-md-flex text-white mx-3"
                     aria-label="Facebook"><i class="fa fa-facebook fa-lg"></i></a>
-                <a href="https://www.instagram.com/opicogardens/" class="d-none d-md-flex text-white mx-3"
+                <a href="https://www.instagram.com/vistasdeconchagua/" class="d-none d-md-flex text-white mx-3"
                     aria-label="Instagram"><i class="fa fa-instagram fa-lg"></i></a>
                 <a href="https://www.youtube.com/channel/UCDfSm7FA4SoD6rnalJUmGlw"
                     class="d-none d-md-flex text-white mx-3" aria-label="Youtube"><i
                         class="fa fa-youtube fa-lg"></i></a>
-                <a href="https://conicasv.com/" class="text-white mx-3" aria-label="Logo Conica"><img
+                <a href="https://conicasv.com" class="text-white mx-3" aria-label="Logo Conica"><img
                         class="d-none d-md-flex" src="img/LogoConica.png" alt="CONICA" width="150" height="71"></a>
             </div>
             <!-- Navbar Toggler -->
@@ -154,6 +156,7 @@
             </button>
         </div>
     </nav>
+    <!-- End NavBar-->
     <div class="container  mt-5 bg-green shadow-lg">
         <div class="row">
             <div class="col-12 text-center text-white">
@@ -170,13 +173,13 @@
                             <div class="form-group col-md-6">
                                 <label class="form-label fw-bold" for="nombre">Nombre: <b
                                         class="text-danger">*</b></label>
-                                <input class="form-control  border-success-subtle" type="text" name="nombre" id="nombre"
+                                <input class="form-control  border-danger-subtle" type="text" name="nombre" id="nombre"
                                     required placeholder="Nombre">
                             </div>
                             <div class="form-group col-md-6">
                                 <label class="form-label fw-bold" for="apellidos">Apellidos: <b
                                         class="text-danger">*</b></label>
-                                <input class="form-control  border-success-subtle" type="text" name="apellidos"
+                                <input class="form-control  border-danger-subtle" type="text" name="apellidos"
                                     id="apellidos" required placeholder="Apellidos">
                             </div>
                         </div>
@@ -184,13 +187,13 @@
                             <div class="form-group col-md-6">
                                 <label class="form-label fw-bold" for="email">Email: <b
                                         class="text-danger">*</b></label>
-                                <input class="form-control  border-success-subtle" type="email" name="email" id="email"
+                                <input class="form-control  border-danger-subtle" type="email" name="email" id="email"
                                     required placeholder="Email">
                             </div>
                             <div class="form-group col-md-6">
                                 <label class="form-label fw-bold" for="telefono">Teléfono: <b
                                         class="text-danger">*</b></label>
-                                <input class="form-control  border-success-subtle" type="tel" name="telefono"
+                                <input class="form-control  border-danger-subtle" type="tel" name="telefono"
                                     id="telefono" required placeholder="Teléfono">
                             </div>
                         </div>
@@ -247,7 +250,7 @@
                             <div class="form-group col-md-6">
                                 <label for="ingresos" class="form-label fw-bold">Ingresos mensuales: <sup
                                         class="text-danger fw-bold">*</sup></label>
-                                <select name="ingresos" id="ingresos" class="form-select border-success-subtle"
+                                <select name="ingresos" id="ingresos" class="form-select border-danger-subtle"
                                     required>
                                     <option value="">-- Seleccione Una Opción --</option>
                                     <option value="1">Menos de $1,000</option>
@@ -261,7 +264,7 @@
                             <div class="form-group col-md-6">
                                 <label for="motivo" class="form-label fw-bold">Motivo de Compra: <sup
                                         class="text-danger fw-bold">*</sup></label>
-                                <select name="motivo" id="motivo" class="form-select border-success-subtle" required>
+                                <select name="motivo" id="motivo" class="form-select border-danger-subtle" required>
                                     <option value="">-- Seleccione Una Opción --</option>
                                     <option value="1">Para Vivir</option>
                                     <option value="2">Para Invertir</option>
@@ -341,7 +344,7 @@
                             <div class="form-group col-md-12">
                                 <label class="form-label fw-bold" for="industria">Industria en la que labora: <b
                                         class="text-danger">*</b></label>
-                                <select name="industria" id="industria" class="form-select border-success-subtle"
+                                <select name="industria" id="industria" class="form-select border-danger-subtle"
                                     required>
                                     <option value="">-- Seleccione Una Opción --</option>
                                     <option value="Abogacía y servicios legales">Abogacía y servicios legales</option>
@@ -373,7 +376,7 @@
                             <div class="form-group col-md-12">
                                 <label class="form-label fw-bold" for="empresa">Nombre de la empresa donde trabaja: <b
                                         class="text-danger">*</b></label>
-                                <input class="form-control  border-success-subtle" type="text" name="empresa"
+                                <input class="form-control  border-danger-subtle" type="text" name="empresa"
                                     id="empresa" required placeholder="Nombre de la empresa">
                             </div>
                         </div>
@@ -381,7 +384,7 @@
                             <div class="form-group col-md-12">
                                 <label class="form-label fw-bold" for="residencia">Lugar de Residencia: <b
                                         class="text-danger">*</b></label>
-                                <select name="residencia" id="residencia" class="form-select border-success-subtle"
+                                <select name="residencia" id="residencia" class="form-select border-danger-subtle"
                                     required>
                                     <option value="">-- Seleccione Una Opción --</option>
                                     <option value="Aguilares">Aguilares</option>

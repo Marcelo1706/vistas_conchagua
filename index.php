@@ -2,7 +2,7 @@
 <html lang="es">
 
 <head>
-    <title>Residencial Opico Gardens - San Juan Opico, La libertad</title>
+    <title>Vistas de Conchagua, Residencial Vistas de Conchagua</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large">
@@ -10,28 +10,28 @@
 
     <meta property="og:locale" content="es_SV">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Residencial Opico Gardens - San Juan Opico, La libertad">
+    <meta property="og:title" content="Residencial Vistas de Conchagua - Conchagua, La Unión">
     <meta property="og:description" content="Solicita más información y nos pondremos en contacto contigo">
-    <meta property="og:url" content="https://www.opicogardens.com">
-    <meta property="og:site_name" content="Residencial Opico Gardens">
-    <meta property="og:image" content="https://www.opicogardens.com/img/og-image.jpg">
-    <meta property="og:image:secure_url" content="https://www.opicogardens.com/img/og-image.jpg">
+    <meta property="og:url" content="https://www.vistasdeconchagua.com">
+    <meta property="og:site_name" content="Residencial Vistas de Conchagua">
+    <meta property="og:image" content="https://www.vistasdeconchagua.com/img/og-image.jpg">
+    <meta property="og:image:secure_url" content="https://www.vistasdeconchagua.com/img/og-image.jpg">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
 
-    <meta name="twitter:title" content="Residencial Opico Gardens - San Juan Opico, La Libertad" />
+    <meta name="twitter:title" content="Residencial Vistas de Conchagua - Conchagua, La Unión" />
     <meta name="twitter:description" content="Solicita más información y nos pondremos en contacto contigo." />
     <meta name="twitter:label1" content="Written by" />
-    <meta name="twitter:data1" content="Opico Gardens" />
+    <meta name="twitter:data1" content="Vistas de Conchagua" />
     <meta name="twitter:label2" content="Time to read" />
     <meta name="twitter:data2" content="3 minutes" />
 
-    <link rel="canonical" href="https://www.opicogardens.com">
-    <link rel="shortlink" href="https://www.opicogardens.com">
-    <link rel="alternate" href="https://www.opicogardens.com" hreflang="es-sv">
-    <link rel="shortcut icon" href="img/Opico-Gardens-icon-150x150.png" type="image/x-icon" sizes="32x32">
-    <link rel="shortcut icon" href="img/Opico-Gardens-icon.png" type="image/x-icon" sizes="192x192">
-    <link rel="apple-touch-icon" href="img/Opico-Gardens-icon.png">
+    <link rel="canonical" href="https://www.vistasdeconchagua.com">
+    <link rel="shortlink" href="https://www.vistasdeconchagua.com">
+    <link rel="alternate" href="https://www.vistasdeconchagua.com" hreflang="es-sv">
+    <link rel="shortcut icon" href="/img/OpicoTree.png" type="image/x-icon" sizes="32x32">
+    <link rel="shortcut icon" href="/img/OpicoTree.png" type="image/x-icon" sizes="192x192">
+    <link rel="apple-touch-icon" href="/img/OpicoTree.png">
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="custom.css">
@@ -40,7 +40,7 @@
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <script src="https://www.google.com/recaptcha/enterprise.js" async defer></script>
 
-    <!-- Meta Pixel Code -->
+    <!-- Meta Pixel Code Pendiente!-->
     <script>
         !function (f, b, e, v, n, t, s) {
             if (f.fbq) return; n = f.fbq = function () {
@@ -92,30 +92,30 @@
     <nav id="navbar-opico" class="navbar navbar-expand-xl" data-bs-theme="dark">
         <div class="container-fluid">
             <a href="#" class="navbar-brand ms-4 flex-lg-grow-1 flex-xl-grow-0" aria-label="Inicio">
-                <img src="img/LogoNavbar.png" alt="Opico Gardens" width="153">
+                <img src="img/LogoNavbar.png" alt="Vistas de Conchagua" width="100">
             </a>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav h6 w-100 justify-content-center">
                     <li class="nav-item mx-2 my-2">
-                        <a href="#about" class="nav-link fw-bold">Sobre Opico Gardens</a>
+                        <a href="/#about" class="nav-link fw-bold">Sobre Vistas de Conchagua</a>
                     </li>
                     <li class="nav-item mx-2 my-2">
-                        <a href="#modelo" class="nav-link fw-bold">Casa Modelo</a>
+                        <a href="/detalles" class="nav-link fw-bold">Casa Modelo</a>
                     </li>
                     <li class="nav-item mx-2 my-2">
-                        <a href="#location" class="nav-link fw-bold">Ubicación</a>
+                        <a href="/#location" class="nav-link fw-bold">Ubicación</a>
                     </li>
                     <li class="nav-item mx-2 my-2">
-                        <a href="#apply" class="nav-link fw-bold">Cómo Aplicar</a>
+                        <a href="/#apply" class="nav-link fw-bold">Cómo Aplicar</a>
                     </li>
                     <li class="nav-item mx-2 my-2">
-                        <a href="#contact" class="nav-link fw-bold">Contacto</a>
+                        <a href="/#contact" class="nav-link fw-bold">Contacto</a>
                     </li>
                 </ul>
                 <div class="d-flex align-items-center justify-content-center my-2 ms-auto">
-                    <a href="https://www.facebook.com/opicogardens" class="d-md-none d-flex text-white mx-3"
+                    <a href="https://www.facebook.com/vistasdeconchagua" class="d-md-none d-flex text-white mx-3"
                         aria-label="Facebook"><i class="fa fa-facebook fa-lg"></i></a>
-                    <a href="https://www.instagram.com/opicogardens/" class="d-md-none d-flex text-white mx-3"
+                    <a href="https://www.instagram.com/vistasdeconchagua/" class="d-md-none d-flex text-white mx-3"
                         aria-label="Instagram"><i class="fa fa-instagram fa-lg"></i></a>
                     <a href="https://www.youtube.com/channel/UCDfSm7FA4SoD6rnalJUmGlw"
                         class="d-md-none d-flex text-white mx-3" aria-label="Youtube"><i
@@ -129,9 +129,9 @@
             </div>
             <!-- Image and social media icons -->
             <div class="d-flex align-items-center navbar-right my-2">
-                <a href="https://www.facebook.com/opicogardens" class="d-none d-md-flex text-white mx-3"
+                <a href="https://www.facebook.com/vistasdeconchagua" class="d-none d-md-flex text-white mx-3"
                     aria-label="Facebook"><i class="fa fa-facebook fa-lg"></i></a>
-                <a href="https://www.instagram.com/opicogardens/" class="d-none d-md-flex text-white mx-3"
+                <a href="https://www.instagram.com/vistasdeconchagua/" class="d-none d-md-flex text-white mx-3"
                     aria-label="Instagram"><i class="fa fa-instagram fa-lg"></i></a>
                 <a href="https://www.youtube.com/channel/UCDfSm7FA4SoD6rnalJUmGlw"
                     class="d-none d-md-flex text-white mx-3" aria-label="Youtube"><i
@@ -152,7 +152,7 @@
         <div class="hero" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="2500">
             <div class="container-fluid p-0">
                 <video class="w-100" id="video-banner" loop autoplay muted playsinline>
-                    <source src="video/video3.mp4" type="video/mp4">
+                    <source src="/video/video3.mp4" type="video/mp4">
                     Your browser does not support the video tag.
                 </video>
             </div>
@@ -165,40 +165,64 @@
             <div class="row flex-lg-row align-items-center">
                 <div class="col-lg-6 order-2 order-lg-1 text-center" data-aos="slide-right" data-aos-duration="2000">
                     <video class="img-fluid w-75 mx-auto shadow-lg" controls>
-                        <source src="video/opico_gardens.mp4" type="video/mp4">
+                        <source src="video/video_vistasconchagua.mp4" type="video/mp4">
                         <!-- Add additional source elements for other video formats if needed -->
                         Your browser does not support the video tag.
                     </video>
                 </div>
                 <div class="col-lg-6 tree order-1 order-lg-2">
-                    <img class="d-block mx-auto mb-4" src="img/Logo-Opico.png" alt="" width="270" id="about"
+                    <img class="d-block mx-auto mb-4" src="img/Logo-Vistas.png" alt="" width="270" id="about"
                         data-aos="slide-left" data-aos-duration="1000">
-                    <div class="container" data-aos="fade" data-aos-duration="1750">
                         <div class="row">
-                            <p class="h4 text-center" data-aos="fade" data-aos-duration="1750">
-                                Opico Gardens: <b>Seguridad, Comodidad y Recreación</b> en una Residencial Exclusiva
-                            </p>
-                        </div>
-                        <div class="row align-items-center justify-content-center">
-                            <div class="col-2 col-lg-3">
-                                <p class="display-1 fw-bold text-center number" style="color: #123A39"
-                                    data-aos="slide-right" data-aos-duration="1750">58</p>
-                            </div>
-                            <div class="col-9">
-                                <p class="h5 lh-base mx-2">viviendas con seguridad 24/7, muro perimetral y cableado
-                                    subterráneo</p>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <p class="h5 text-center" data-aos="fade" data-aos-duration="1750">
-                                Salón de usos múltiples, zonas verdes y canchas deportivas
-                            </p>
-                            <p class="h5 text-center">
-                                ¡Y primera <span class="fw-bold" style="color: #123A39">Residencial en San Juan
-                                    Opico</span> que contará con <b>piscina</b>!
-                            </p>
-                        </div>
-                    </div>
+    <p class="h4 text-center" data-aos="fade" data-aos-duration="1750">
+        Un hogar seguro, cómodo y con estilo
+    </p>
+</div>
+<div class="row align-items-center justify-content-center">
+    <div class="col-12 text-center mb-3">
+        <span class="display-4 fw-bold text-center number" style="color: #123A39" data-aos="slide-right"
+            data-aos-duration="1750">58 Viviendas</span><br>
+        <span class="h5 text-center" data-aos="fade" data-aos-duration="1750">
+            lote + construcción
+        </span>
+    </div>
+</div>
+<div class="row justify-content-center">
+    <div class="col-lg-5 mb-3">
+        <div class="inline-flex h5">
+            <i class="fa fa-check-circle me-3"></i>
+            <span>Seguridad 24/7</span>
+        </div>
+        <div class="inline-flex h5">
+            <i class="fa fa-check-circle me-3"></i>
+            <span>Muro Perimetral</span>
+        </div>
+        <div class="inline-flex h5">
+            <i class="fa fa-check-circle me-3"></i>
+            <span>Zonas Verdes</span>
+        </div>
+    </div>
+    <div class="col-lg-6 mb-3">
+        <div class="inline-flex h5">
+            <i class="fa fa-check-circle me-3"></i>
+            <span>Salón de Usos Múltiples</span>
+        </div>
+        <div class="inline-flex h5">
+            <i class="fa fa-check-circle me-3"></i>
+            <span>Cableado subterráneo</span>
+        </div>
+        <div class="inline-flex h5">
+            <i class="fa fa-check-circle me-3"></i>
+            <span>Canchas Deportivas</span>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <p class="h5 text-center">
+        ¡Y primera <span class="fw-bold" style="color: #123A39">Residencial en Conchagua</span> que contará con
+        <b>piscina</b>!
+    </p>
+</div>
                     <div class="row w-100 justify-content-center">
                         <div class="col-xs-12 col-md-8">
                             <img class="d-block mx-auto mt-4 pt-4 w-100" src="img/slogan.png" alt="" data-aos="fade"
@@ -228,12 +252,9 @@
                                     <div class="col-lg-6">
                                         <div class="card-body m-4 text-center">
                                             <p class="card-title fw-bold h3 mt-5">Bienvenido a tu nuevo hogar en
-                                                <br>Opico
-                                                Gardens.
+                                                <br>Vistas de Conchagua
                                             </p>
-                                            <p class="card-text h5">Amplios <b>95.75 m<sup>2</sup></b> con <b>3
-                                                    habitaciones</b>
-                                                para tu comodidad.</p>
+                                            <p class="card-text h5">Con alta plusvalía y una de las <br>mejores vistas de El Salvador</br></p>
                                             <a href="/detalles" class="btn btn-primary btn-lg mt-2">Ver Más</a>
                                         </div>
                                     </div>
@@ -247,13 +268,10 @@
                                 <div class="col-lg-6">
                                     <div class="card-body m-4 text-center">
                                         <p class="card-text h5 mt-5">
-                                            <i class="fa fa-star" style="color:#69BA58;"></i>
-                                            <b>Área de Juegos </b>para los más pequeños de la casa.
-                                        </p>
-                                        <p class="card-text h5">
-                                            <i class="fa fa-star" style="color:#69BA58;"></i>
-                                            Disfruta de un <b>área social </b> para los eventos que desees.
-                                        </p>
+                                            <i class="fa fa-star" style="color:#D1223E;"></i>
+                                            Amplios <b>95.75 m²</b> con <b>3 habitaciones para tu comodidad.</b><br>
+                                            <i class="fa fa-star" style="color:#D1223E;"></i>
+                                            58 viviendas con <b>seguridad 24/7</b>, muro <b>perimetral</b> y cableado <b>subterráneo</b>.<br>
                                         <a href="/detalles" class="btn btn-primary btn-lg mt-2">Ver Más</a>
                                     </div>
                                 </div>
@@ -272,12 +290,12 @@
                                 <div class="col-lg-6">
                                     <div class="card-body m-4 text-center">
                                         <p class="card-text h5 mt-5">
-                                            <i class="fa fa-star" style="color:#69BA58;"></i>
-                                            Protege tus vehículos en la cochera para <b>2 autos</b>.
+                                            <i class="fa fa-star" style="color:#D1223E;"></i>
+                                            <b>Área de Juegos </b>para los más pequeños de la casa.
                                         </p>
                                         <p class="card-text h5">
-                                            <i class="fa fa-star" style="color:#69BA58;"></i>
-                                            El dormitorio principal cuenta con <b>walk-in closet</b>.
+                                            <i class="fa fa-star" style="color:#D1223E;"></i>
+                                            Disfruta de un <b>área social </b> para los eventos que desees.
                                         </p>
                                         <a href="/detalles" class="btn btn-primary btn-lg mt-2">Ver Más</a>
                                     </div>
@@ -291,12 +309,12 @@
                                 <div class="col-lg-6">
                                     <div class="card-body m-4 text-center">
                                         <p class="card-text h5 mt-5">
-                                            <i class="fa fa-star" style="color:#69BA58;"></i>
-                                            <b>Dos dormitorios junior </b>con closets cómodos.
+                                        <i class="fa fa-star" style="color:#D1223E;"></i>
+                                            Protege tus vehículos en la cochera para <b>2 autos</b>.
                                         </p>
                                         <p class="card-text h5">
-                                            <i class="fa fa-star" style="color:#69BA58;"></i>
-                                            <b>Baño compartido con ducha: </b>con acabados elegantes.
+                                            <i class="fa fa-star" style="color:#D1223E;"></i>
+                                            El dormitorio principal cuenta con <b>walk-in closet</b>.
                                         </p>
                                         <a href="/detalles" class="btn btn-primary btn-lg mt-2">Ver Más</a>
                                     </div>
@@ -316,12 +334,12 @@
                                 <div class="col-lg-6">
                                     <div class="card-body m-4 text-center">
                                         <p class="card-text h5">
-                                            <i class="fa fa-star" style="color:#69BA58;"></i>
-                                            Disfruta de espacios <b>fluidos y funcionales.</b>
+                                        <i class="fa fa-star" style="color:#D1223E;"></i>
+                                            <b>Dos dormitorios junior </b>con closets cómodos.
                                         </p>
                                         <p class="card-text h5">
-                                            <i class="fa fa-star" style="color:#69BA58;"></i>
-                                            Sala, comedor y cocina <b>independientes </b> con <b>pantry</b>
+                                            <i class="fa fa-star" style="color:#D1223E;"></i>
+                                            <b>Baño compartido con ducha: </b>con acabados elegantes.
                                         </p>
                                         <a href="/detalles" class="btn btn-primary btn-lg mt-2">Ver Más</a>
                                     </div>
@@ -335,12 +353,12 @@
                                 <div class="col-lg-6">
                                     <div class="card-body m-4 text-center">
                                         <p class="card-text h5">
-                                            <i class="fa fa-star" style="color:#69BA58;"></i>
-                                            <b>Una piscina </b>a pocos pasos de tu propio hogar.
+                                        <i class="fa fa-star" style="color:#D1223E;"></i>
+                                            Disfruta de espacios <b>fluidos y funcionales.</b>
                                         </p>
                                         <p class="card-text h5">
-                                            <i class="fa fa-star" style="color:#69BA58;"></i>
-                                            Comparte momentos en familia y amigos en el <b>amplio jardín interior.</b>
+                                            <i class="fa fa-star" style="color:#D1223E;"></i>
+                                            Sala, comedor y cocina <b>independientes </b> con <b>pantry</b>
                                         </p>
                                         <a href="/detalles" class="btn btn-primary btn-lg mt-2">Ver Más</a>
                                     </div>
@@ -360,13 +378,12 @@
                                 <div class="col-lg-6">
                                     <div class="card-body m-4 text-center">
                                         <p class="card-text h5">
-                                            <i class="fa fa-star" style="color:#69BA58;"></i>
-                                            Cocina con pantry con <b>top de granito y gabinetes de madera.</b>
+                                        <i class="fa fa-star" style="color:#D1223E;"></i>
+                                            <b>Una piscina </b>a pocos pasos de tu propio hogar.
                                         </p>
                                         <p class="card-text h5">
-                                            <i class="fa fa-star" style="color:#69BA58;"></i>
-                                            Detalles elegantes: <b>porcelanato en pisos, sistema de reducción de
-                                                calor</b>
+                                            <i class="fa fa-star" style="color:#D1223E;"></i>
+                                            Comparte momentos en familia y amigos en el <b>amplio jardín interior.</b>
                                         </p>
                                         <a href="/detalles" class="btn btn-primary btn-lg mt-2">Ver Más</a>
                                     </div>
@@ -380,9 +397,13 @@
                                 <div class="col-lg-6">
                                     <div class="card-body m-4 text-center">
                                         <p class="card-text h5">
-                                            <i class="fa fa-star" style="color:#69BA58;"></i>
-                                            58 viviendas con <b>seguridad 24/7</b>, muro <b>perimetral</b> y cableado
-                                            <b>subterráneo</b>
+                                        <i class="fa fa-star" style="color:#D1223E;"></i>
+                                            Cocina con pantry con <b>top de granito y gabinetes de madera.</b>
+                                        </p>
+                                        <p class="card-text h5">
+                                            <i class="fa fa-star" style="color:#D1223E;"></i>
+                                            Detalles elegantes: <b>porcelanato en pisos, sistema de reducción de
+                                                calor</b>
                                         </p>
                                         <a href="/detalles" class="btn btn-primary btn-lg mt-2">Ver Más</a>
                                     </div>
@@ -401,14 +422,15 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="card-body m-4 text-center">
-                                        <p class="card-text h5 mt-5">Haz realidad tu sueño con <b>cuotas desde $980.</b>
+                                        <p class="card-text h5 mt-5">Haz realidad tu sueño con nuestras unidades
+                                            de <b>lotes y casas.</b>
                                         </p>
-                                        <p class="card-text h5">Descubre tu hogar ideal en <span class="h4 fw-bold"
-                                                style="color: #123A39">Opico Gardens.</span>
+                                        <p class="card-text h5">Descubre tu hogar ideal en <br><span class="h4 fw-bold"
+                                                style="color: #D1223E">Vistas de Conchagua</span>
                                             <br><br><b>
-                                                <i class="fa fa-star" style="color:#69BA58;"></i>
+                                                <i class="fa fa-star" style="color:#D1223E;"></i>
                                                 <span class="text-uppercase">¡bienvenido!</span>
-                                                <i class="fa fa-star" style="color:#69BA58;"></i>
+                                                <i class="fa fa-star" style="color:#D1223E;"></i>
                                             </b>
                                         </p>
                                         <a href="/detalles" class="btn btn-primary btn-lg mt-2">Ver Más</a>
@@ -472,19 +494,18 @@
                             </button>
                         </div>
                         <hr class="separator shadow">
-                        <p class="h5 mt-2 text-white location-text"><b>Opico Gardens</b> es la primera residencial en
-                            San Juan Opico con piscina. Construida bajo un concepto de privacidad, seguridad y estilo de
-                            vida innovador por usar cableado subterráneo.</p>
+                        <p class="h5 mt-2 text-white location-text"><b>¡Asegura tu futuro invirtiendo en el hogar de tus sueños!<br></b>Residencial Vistas de Conchagua,
+                         con un novedoso concepto urbanístico ubicado en el municipio de Conchagua.</p>
                     </div>
                     <div class="col-lg-6">
-                        <p class="h5 mt-2 text-white text-center">Contiguo a Colonia San Rafael, a 8 <br>cuadras del
-                            parque central de <b>San Juan Opico.</b></p>
+                        <p class="h5 mt-2 text-white location-text">Estamos ubicados <b>400 mts. al sur del By-Pass, Carretera a Conchagua, La Unión.</b><br><br> 
+                            Conoce nuestra exclusiva residencial y la vista única hacia el Golfo de Fonseca.</b></p>
                         <hr class="separator">
                         <div class="bordered">
                             <div class="py-4 px-4">
                                 <div class="ratio ratio-4x3">
                                     <iframe
-                                        src="https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d2229.5827601357387!2d-89.3648021!3d13.874631!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTPCsDUyJzI4LjkiTiA4OcKwMjEnNDkuMiJX!5e1!3m2!1ses-419!2ssv!4v1694577944749!5m2!1ses-419!2ssv"
+                                        src="https://www.google.com/maps/d/embed?mid=1sJ4F5VGznGbEFYWrYw8THBHPkNiPVceD&ehbc=2E312F"
                                         width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
                                         referrerpolicy="no-referrer-when-downgrade" title="Google Maps Location">
                                     </iframe>
@@ -519,7 +540,7 @@
                                 <p><i class="fa fa-check"></i> Estado de Cuenta AFP - Últimos 6 meses</p>
                                 <p><i class="fa fa-check"></i> Última Renta Declarada</p>
                                 <p><i class="fa fa-check"></i> Solvencia Tributaria</p>
-                                <p><i class="fa fa-check"></i> Ingresos desde $2,975</p>
+                                <p><i class="fa fa-check"></i> Ingresos desde $1,200</p>
                                 <div class="text-center">
                                     <a href="/informacion" class="btn btn-primary mb-4 mt-1">
                                         Quiero Aplicar Ya
@@ -542,7 +563,7 @@
                                 <p><i class="fa fa-check"></i> Solvencia Tributaria</p>
                                 <p><i class="fa fa-check"></i> Balance General</p>
                                 <p><i class="fa fa-check"></i> Formulario de Ingresos y Egresos (FSV)</p>
-                                <p><i class="fa fa-check"></i> Ingresos desde $5,000</p>
+                                <p><i class="fa fa-check"></i> Ingresos desde $1,800</p>
                                 <div class="text-center">
                                     <a href="/informacion" class="btn btn-primary mb-4 mt-1">
                                         Quiero Aplicar Ya
@@ -566,7 +587,7 @@
                                 <p><i class="fa fa-check"></i> Constancia Salarial</p>
                                 <p><i class="fa fa-check"></i> Income Tax y W-2 del último año</p>
                                 <p><i class="fa fa-check"></i> Poder específico para la operación</p>
-                                <p><i class="fa fa-check"></i> Ingresos mayores a $55,000 anuales</p>
+                                <p><i class="fa fa-check"></i> Ingresos mayores a $25,000 anuales</p>
                                 <div class="text-center">
                                     <a href="/informacion" class="btn btn-primary mb-4 mt-1">
                                         Quiero Aplicar Ya
@@ -612,31 +633,31 @@
                             <div class="col-md-6 mb-3">
                                 <label for="nombres" class="form-label">Nombres: <sup
                                         class="text-danger fw-bold">*</sup></label>
-                                <input type="text" class="form-control border-success-subtle" id="nombres"
+                                <input type="text" class="form-control border-danger-subtle" id="nombres"
                                     name="nombres" placeholder="Nombres" required>
                             </div>
                             <div class="col-md-6 mb-3">
                                 <label for="apellidos" class="form-label">Apellidos: <sup
                                         class="text-danger fw-bold">*</sup></label>
-                                <input type="text" class="form-control border-success-subtle" id="apellidos"
+                                <input type="text" class="form-control border-danger-subtle" id="apellidos"
                                     name="apellidos" placeholder="Apellidos" required>
                             </div>
                             <div class="col-md-6 mb-3">
                                 <label for="telefono" class="form-label">Teléfono: <sup
                                         class="text-danger fw-bold">*</sup></label>
-                                <input type="tel" class="form-control border-success-subtle" id="telefono"
+                                <input type="tel" class="form-control border-danger-subtle" id="telefono"
                                     name="telefono" placeholder="Teléfono" required>
                             </div>
                             <div class="col-md-6 mb-3">
                                 <label for="correo" class="form-label">Email: <sup
                                         class="text-danger fw-bold">*</sup></label>
-                                <input type="email" class="form-control border-success-subtle" id="correo" name="correo"
+                                <input type="email" class="form-control border-danger-subtle" id="correo" name="correo"
                                     placeholder="Correo Electrónico" required>
                             </div>
                             <div class="col-md-6 mb-3">
                                 <label for="edad" class="form-label">Edad: <sup
                                         class="text-danger fw-bold">*</sup></label>
-                                <select name="edad" id="edad" class="form-select border-success-subtle" required>
+                                <select name="edad" id="edad" class="form-select border-danger-subtle" required>
                                     <option value="">-- Seleccione Una Opción --</option>
                                     <option value="1">18 - 24</option>
                                     <option value="2">25 - 34</option>
@@ -648,7 +669,7 @@
                             <div class="col-md-6 mb-3">
                                 <label for="ingresos" class="form-label">Ingresos mensuales: <sup
                                         class="text-danger fw-bold">*</sup></label>
-                                <select name="ingresos" id="ingresos" class="form-select border-success-subtle"
+                                <select name="ingresos" id="ingresos" class="form-select border-danger-subtle"
                                     required>
                                     <option value="">-- Seleccione Una Opción --</option>
                                     <option value="1">Menos de $1,000</option>
@@ -662,7 +683,7 @@
                             <div class="col-md-12 mb-3">
                                 <label for="motivo" class="form-label">Motivo de Compra: <sup
                                         class="text-danger fw-bold">*</sup></label>
-                                <select name="motivo" id="motivo" class="form-select border-success-subtle" required>
+                                <select name="motivo" id="motivo" class="form-select border-danger-subtle" required>
                                     <option value="">-- Seleccione Una Opción --</option>
                                     <option value="1">Para Vivir</option>
                                     <option value="2">Para Invertir</option>

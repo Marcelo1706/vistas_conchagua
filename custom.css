@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins&display=swap');
+
 body,
 html {
     height: 100%;
@@ -16,21 +19,21 @@ h6,
 .h4,
 .h5,
 .h6 {
-    color: #123A39;
+    color: #000000;
 }
 
 .nav-link.active {
-    color: #69BA58 !important;
+    color: #fff !important;
 }
 
 .navbar.navbar-expand-xl {
     height: 100px;
-    background-color: #123A39;
+    background-color:#0B592F;
     z-index: 1000;
 }
 
 .navbar>.container-fluid {
-    background-color: #123A39;
+    background-color: #0B592F;
 }
 
 .hero {
@@ -66,18 +69,18 @@ h6,
 }
 
 .btn-primary {
-    background-color: #123A39;
-    border-color: #123A39;
+    background-color: #0B592F;
+    border-color: #0B592F;
 }
 
 .btn-primary:hover {
-    background-color: #0a201f;
-    border-color: #0a201f;
+    background-color: #0B592F;
+    border-color: #0B592F;
 }
 
 .btn-secondary {
-    background-color: #69BA58;
-    border-color: #69BA58;
+    background-color: #0B592F;
+    border-color: #0B592F;
 }
 
 .btn-secondary:hover {
@@ -86,7 +89,7 @@ h6,
 }
 
 .bg-green {
-    background-color: #123A39;
+    background-color: #0B592F;
 }
 
 .bg-gray {
@@ -212,7 +215,7 @@ a {
 
 a:hover {
     text-decoration: none;
-    color: #69BA58 !important;
+    color: #fff !important;
 }
 
 /* Style for the floating action button */
@@ -225,8 +228,8 @@ a:hover {
 
 .separator {
     height: 3px;
-    background: #69BA58;
-    color: #69BA58;
+    background: #0B592F;
+    color: #0B592F;
     opacity: 1;
 }
 
@@ -240,7 +243,7 @@ a:hover {
 }
 
 .number {
-    font-family: 'Poppins Regular' !important;
+    font-family: 'Poppins' !important;
 }
 
 /* Custom CSS for positioning the image link */
